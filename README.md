@@ -1,2 +1,3 @@
 # P1-demo
-This is my first git repsitory
+This is my first GIT repsitory
+Author - Yash Yadav
